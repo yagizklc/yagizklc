@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
-<h3 align="center">Senior Computer Science Student from Turkey - Sabancı University</h3>
+<h3 align="center">Senior Computer Science & Economics Student from Turkey - Sabancı University</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 📝 I regularly write articles on [my-blog](my-blog)
+- ⚡️ I'm interested in AI and Web3
 
-<h3 align="left">Connect with me:</h3>
+- 📝 I [will] regularly write articles on [my-blog](my-blog)
+
 <p align="left">
 </p>
 
