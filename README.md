@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
 <h3 align="center">Senior Computer Science & Economics Student from Turkey - Sabancı University</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
-- ⚡️ I'm interested in AI and Web3
+- 🔭 I’m currently working as a **Backend Engineer**
+- ⚡️ I'm interested in Cloud and AI
 - 📝 I [will] regularly write articles on [my-blog](my-blog)
 
 <h3 align="left">Languages and Tools:</h3>
