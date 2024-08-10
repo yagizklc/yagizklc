@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yagiz</h1>
-<h3 align="center">Senior Computer Science & Economics Student from Turkey - Sabancı University</h3>
 
+- 📚 I've my double-major bachelors in Computer Science & Economics from Sabancı University, Turkey
 - 🔭 I’m currently working as a **Backend Engineer** in Areal.AI
 - ⚡️ I'm interested in Cloud and AI
 - 📝 I build _from-scratch_ project in my spare time.
