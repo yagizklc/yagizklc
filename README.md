@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working as a **Backend Engineer**
 - ⚡️ I'm interested in Cloud and AI
-- 📝 I [will] regularly write articles on [my-blog](my-blog)
+- 📝 I build _from-scratch_ project in my spare time.
+  - HTTP Server: [from-scratch-http-server](https://github.com/yagizklc/from-scratch-http-server-go)
+  - Redis: [from-scratch-redis](https://github.com/yagizklc/from-scratch-redis)
 
 <h3 align="left">Languages and Tools:</h3>
 
