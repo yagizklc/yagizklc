@@ -2,7 +2,7 @@
 
 - 📚 I've my double-major bachelors in Computer Science & Economics from Sabancı University, Turkey
 - 🔭 I’m currently working as a **Backend Engineer** in Areal.AI
-- ⚡️ I'm interested in IoT and Distributed Systems.
+- ⚡️ I'm interested in Software Architecture & Developer Experience.
 - 📝 I build _from-scratch_ project in my spare time.
   - HTTP Server: [from-scratch-http-server](https://github.com/yagizklc/from-scratch-http-server-go)
   - Redis: [from-scratch-redis](https://github.com/yagizklc/from-scratch-redis)
