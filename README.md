@@ -6,6 +6,8 @@
 - 📝 I build _from-scratch_ project in my spare time.
   - HTTP Server: [from-scratch-http-server](https://github.com/yagizklc/from-scratch-http-server-go)
   - Redis: [from-scratch-redis](https://github.com/yagizklc/from-scratch-redis)
+  - Neural Networks: [from-scratch-nn](https://github.com/yagizklc/from-scratch-nn)
+  - Agents: [from-scratch-agents](https://github.com/yagizklc/from-scratch-agents)
 
 <h3 align="left">Languages and Tools:</h3>
 
