@@ -1,73 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yagiz</h1>
+# Yagiz Kilicarslan
 
-- 📚 I've my double-major bachelors in Computer Science & Economics from Sabancı University, Turkey
-- 🔭 I’m currently working as a **Backend Engineer** in Areal.AI
-- ⚡️ I'm interested in Software Architecture & Developer Experience.
-- 📝 I build _from-scratch_ project in my spare time.
-  - HTTP Server: [from-scratch-http-server](https://github.com/yagizklc/from-scratch-http-server-go)
-  - Redis: [from-scratch-redis](https://github.com/yagizklc/from-scratch-redis)
-  - Neural Networks: [from-scratch-nn](https://github.com/yagizklc/from-scratch-nn)
-  - Agents: [from-scratch-agents](https://github.com/yagizklc/from-scratch-agents)
+Backend engineer at [Areal.AI](https://areal.ai), focused on platform. I own the reliability, performance and security of our platform, from the services and database to the cloud they run on.
 
-<h3 align="left">Languages and Tools:</h3>
+### What I've done
 
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" width="40" height="40"/>
-  </a>
-</p>
+- **Led a monolith → cloud-native rewrite.** Built the MVP solo, then led a team of three to production. Core services now ship as independent containers that autoscale horizontally on ECS and run on Kubernetes. The result was 10× daily throughput and the headroom to onboard our largest customer.
+- **Made our backend agent-native.** Built agent skills, plugins and MCP servers that cover the codebase, deployments, the design system, read-only database access and traces. Also built a CLI and MCP server for our API with OAuth and fine-grained permissions.
+- **Replaced log files with OpenTelemetry.** Instrumented the app end to end. Filterable, shareable traces changed how the team debugs.
+- **Built auth & SSO** for our API.
+- **Internal tools:** a document labeling tool for model fine-tuning, a mock-document generator for demos and tests, and agent-native integration tooling.
 
-<h4 align="left">Web Frameworks & Libraries:</h4>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-</p>
+### Stack
 
-<h4 align="left">Databases:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+Python (Django, FastAPI) · PostgreSQL · Docker · Kubernetes · AWS (ECS, RDS, S3, Bedrock, SageMaker) · Go · Rust
 
-<h4 align="left">Tools & Other Technologies:</h4>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
+### Next
+
+Self-hosted infrastructure and AI: on-prem Kubernetes, running models on our own GPUs, and inference. Also more Rust for the CPU-heavy work (image, PDF and vector math).
+
+---
+
+[yagizklc.github.io](https://yagizklc.github.io)
