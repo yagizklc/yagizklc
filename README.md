@@ -1,23 +1,17 @@
-# Yagiz Kilicarslan
+# Hi, I'm Yagiz 👋
 
-Backend engineer at [Areal.AI](https://areal.ai), focused on platform. I own the reliability, performance and security of our platform, from the services and database to the cloud they run on.
+🛠️ Backend engineer at [Areal.AI](https://areal.ai), where I look after our platform: reliability, performance, security, and the cloud it all runs on.
 
-### What I've done
+🤖 These days I'm making our backend agent-native and building tools that make developers' lives easier.
 
-- **Led a monolith → cloud-native rewrite.** Built the MVP solo, then led the team to production. Core services now ship as independent containers that autoscale horizontally on ECS and run on Kubernetes. The result was 10× daily throughput and the headroom to onboard our largest customer.
-- **Made our backend agent-native.** Built agent skills, plugins and MCP servers that cover the codebase, deployments, the design system and the observability stack. Also built a CLI and MCP server for our API with OAuth and fine-grained permissions.
-- **Replaced log files with OpenTelemetry.** Instrumented the app end to end. Filterable, shareable traces changed how the team debugs.
-- **Built auth & SSO** for our API.
-- **Internal tools:** a document labeling tool for model fine-tuning, a mock-document generator for demos and tests, and agent-native integration tooling.
+### 🧰 Stack
 
-### Stack
+🐍 Python (Django, FastAPI) · 🐘 PostgreSQL · 🐳 Docker · ☸️ Kubernetes · ☁️ AWS (ECS, RDS, S3, Bedrock, SageMaker) · 🐹 Go · 🦀 Rust
 
-Python (Django, FastAPI) · PostgreSQL · Docker · Kubernetes · AWS (ECS, RDS, S3, Bedrock, SageMaker) · Go · Rust
+### 🔭 What I want to do
 
-### Next
-
-Self-hosted infrastructure and AI: on-prem Kubernetes, running models on our own GPUs, and inference.
+🏗️ Self-hosted infrastructure and AI: on-prem Kubernetes, running models on our own GPUs, and inference.
 
 ---
 
-[yagizklc.github.io](https://yagizklc.github.io)
+🌐 [yagizklc.github.io](https://yagizklc.github.io)
